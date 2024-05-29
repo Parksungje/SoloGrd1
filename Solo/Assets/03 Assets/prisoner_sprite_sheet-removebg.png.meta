@@ -1,0 +1,1852 @@
+fileFormatVersion: 2
+guid: 2be0c79f7bc55eb4ead84374535e6736
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 671
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1ca3e65b1b24e4cb1ef4992ba54a42
+      internalID: 262443340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_1
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 678
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0544e09a851dd346acf89360c638f2c
+      internalID: 1101662902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 679
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbb2c0959b622c4e826af27f5d0f7f4
+      internalID: -328846928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_3
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 678
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9af0973d0e03104f96b732fb755473d
+      internalID: 130380465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_4
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 671
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3effd074fc872499386ee6fb075690
+      internalID: -245533804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_5
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 675
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e50089e50e26841b3c4b2824fb5e1c
+      internalID: 1201771615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_6
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 679
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400db597693e2f6489d7ad7a09fda26d
+      internalID: -728987734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_7
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 624
+        width: 24
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459b28bb9d9c63744be778266d2d1fdc
+      internalID: 1233836607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_8
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 636
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08a8566f648272498919a23fd735dc5
+      internalID: 154801156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_9
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 636
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de262d55910a857418258038ae44854c
+      internalID: 1293883127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_10
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 636
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5aa698ba30ce854babdff79f2b014c2
+      internalID: 2137940041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_11
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 607
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d7a7488d59bcb4bbdb287b310d065c
+      internalID: -791115324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_12
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 614
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19fc5dbb628ef0e4b93faa46c91d164f
+      internalID: -290690872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_13
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 615
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2559b10ed3abaa842a916a5085236158
+      internalID: 1534823341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_14
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 614
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9ec788dd662a147a1fcb61843a40f8
+      internalID: 940496149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_15
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 607
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce302056adaf7e4882ec98a33ac5353
+      internalID: -543504333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_16
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 611
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2007a84711c73489d4811d7a2e0898
+      internalID: 1962146478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_17
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 615
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29cb8de792da82b4fa127a0d413adacb
+      internalID: 1414115772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_18
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 543
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcad73ad504a4584e986f7320cb3fc12
+      internalID: 1336349164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_19
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 543
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f6217ee923c874d8578a24daf9d2dc
+      internalID: 305220607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_20
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 543
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbf1fac1922a1d4f8d3811962d7e186
+      internalID: 1966548951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_21
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 543
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e397bfd3cd5ba4ba40274d2be07f9f
+      internalID: 1707098232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_22
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 543
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39cce06ddcf7a40429d731900a48c8f4
+      internalID: 520989760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_23
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 543
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778a78ee210bd3c4297acf73b78236d9
+      internalID: -1222076656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_24
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 543
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6451efb79083634ea084034a35a4394
+      internalID: 430176260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_25
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 492
+        width: 24
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3384bb142d97f474aaee2b7a905b5b0f
+      internalID: 228131494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_26
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 504
+        width: 7
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd0af2291e3a86488fe11c5349d15c4
+      internalID: -864405576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_27
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 504
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cde623150697ca2409dd1d5d92aa28e2
+      internalID: 1963140597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_28
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 504
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5caadc86fcedce64fb31b486733f870b
+      internalID: 517638146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_29
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 504
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c777e6141756947a3519310c4750c4
+      internalID: 341564452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_30
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 479
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed6d980b92b7af4c9fe81ee0f3a398a
+      internalID: -536476864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_31
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 479
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064cafcdbcbefc94187d740954d2e10c
+      internalID: -1198399469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_32
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 479
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db32eed6f1bcb4440be6f0b32e0069ec
+      internalID: 1878911748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_33
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 479
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b84d4c8105ae74fa8cbc4d58945325
+      internalID: 307648715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_34
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 479
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989c793fb46daae47a146a0fcecfe01e
+      internalID: 662761185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_35
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 479
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df3cb6172db0484b81a6db832f6417d
+      internalID: 475568188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_36
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 479
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb224e0915400c4e8ba2479cf8f38f3
+      internalID: 2050107326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_37
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 415
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3a55b8680147641910c973f3c33e2f
+      internalID: 773357596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_38
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 415
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978e2e0c00271324abb79a11698b3467
+      internalID: 556437641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_39
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 415
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14faf78fd737b73438a2e028b35438e7
+      internalID: 507870572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_40
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 422
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37cbe6b1dc2e3e34f868d88f8f83e900
+      internalID: -1538374463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_41
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 415
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5a64548f7801b4c99744aec87276e0
+      internalID: 878132929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_42
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 415
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d4b376c11a3594d98c4e22c4a54405
+      internalID: -497285081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_43
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 415
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8febe13429d299459ad049d9d43c795
+      internalID: -219834709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_44
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 422
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbffe757a5ee57845a268bc9ba334943
+      internalID: 1699797275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_45
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 390
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80efe4d0bde9acf48ae7be594d0cb874
+      internalID: -755579801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_46
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 390
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5221ffdb5560dd44990a735627b70679
+      internalID: 1665057003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_47
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 390
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a844d93f9c5cb149a62911df4043525
+      internalID: 1956074828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_48
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 390
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0be6a4b7044824296493fb2bfa03a8
+      internalID: 2108745759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_49
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 390
+        width: 234
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d62d3aab0703f04429470c855431aa2b
+      internalID: -1785593842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_50
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 390
+        width: 241
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482a9b4ea994b1b4497b743952dae154
+      internalID: 749512959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_51
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 292
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c39a0d541bebc747aeea690fc45c335
+      internalID: 1299664117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_52
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 287
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ea2d1efdcb743469b8f09fcc264609
+      internalID: 1397038083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_53
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 287
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefdfc099adbbb849ad49dfe2c41f630
+      internalID: 808017260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_54
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 287
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40778dacd9957f24d9161600f21875f0
+      internalID: -1295657785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_55
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 293
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7e01a8d84e62647aefff51506df7d5
+      internalID: 1851160733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_56
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 287
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c02c0d2ee15ba644a71c693e8bb81ca
+      internalID: -234205293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_57
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 287
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a37211efcbc3634f8e902ef89c243ed
+      internalID: 1384921629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_58
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 287
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2442f1f9226f5f74582a0ba3dd4a074e
+      internalID: -1967148124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_59
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 270
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ef29ef4abbf17498ff83b0d86c5689
+      internalID: 817099437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_60
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 270
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d5e7541f726d044b63ad86806505d7
+      internalID: -36999707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_61
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 270
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb020509144178042a14efed3ceeb856
+      internalID: -344460149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_62
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 270
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ae9fd4494447240b33955ab73716f3
+      internalID: 1294899605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_63
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 270
+        width: 234
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1c71a355c52e0a43b33a6526e60afae
+      internalID: 1816671983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_64
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 270
+        width: 241
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c84f1aa38434ac459fead7e9eae6cb7
+      internalID: -786772832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_65
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 191
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2094ace8de49e5c4b98c8139f569a3a7
+      internalID: -904388593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_66
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 191
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59cc1b7384a68b4ea9dc61c3f84f0ac
+      internalID: 706826719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_67
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 191
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03c2ceacb8933842a076e34cdb5e3e2
+      internalID: 866076909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_68
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 191
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c149049aa7f914a8571dea1095e979
+      internalID: -1153113563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_69
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 191
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d75bfec32461b48bda98d0ffcd52e7
+      internalID: -824693586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_70
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 120
+        width: 25
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e4ab4e71324dd42862e09f069d1952
+      internalID: 1887382034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_71
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 132
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a1b0f4fd4a043469285e226e7fb6ec
+      internalID: 532032590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_72
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 132
+        width: 6
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b04b2fa382adc4690bbfb1adddeff9
+      internalID: -1112909535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_73
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 132
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ddc0a7b69978214bb002cc8e830269f
+      internalID: -798157063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_74
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 95
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d43fd35e41744e4ab19eb298ac1ba53
+      internalID: -317762998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_75
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 95
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb31b458d72d8748a8e34ff3a79e744
+      internalID: 846984082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_76
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 95
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a50b405a5d0779b47bd9b51837a55a8d
+      internalID: -585551665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_77
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 95
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fbed7cf1fa1e594ca5bd04e5e6650c0
+      internalID: -1038011713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: prisoner_sprite_sheet-removebg_78
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 95
+        width: 37
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453d8292d23408d47888f7a4fcfa2959
+      internalID: -8452891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      prisoner_sprite_sheet-removebg_0: 262443340
+      prisoner_sprite_sheet-removebg_1: 1101662902
+      prisoner_sprite_sheet-removebg_10: 2137940041
+      prisoner_sprite_sheet-removebg_11: -791115324
+      prisoner_sprite_sheet-removebg_12: -290690872
+      prisoner_sprite_sheet-removebg_13: 1534823341
+      prisoner_sprite_sheet-removebg_14: 940496149
+      prisoner_sprite_sheet-removebg_15: -543504333
+      prisoner_sprite_sheet-removebg_16: 1962146478
+      prisoner_sprite_sheet-removebg_17: 1414115772
+      prisoner_sprite_sheet-removebg_18: 1336349164
+      prisoner_sprite_sheet-removebg_19: 305220607
+      prisoner_sprite_sheet-removebg_2: -328846928
+      prisoner_sprite_sheet-removebg_20: 1966548951
+      prisoner_sprite_sheet-removebg_21: 1707098232
+      prisoner_sprite_sheet-removebg_22: 520989760
+      prisoner_sprite_sheet-removebg_23: -1222076656
+      prisoner_sprite_sheet-removebg_24: 430176260
+      prisoner_sprite_sheet-removebg_25: 228131494
+      prisoner_sprite_sheet-removebg_26: -864405576
+      prisoner_sprite_sheet-removebg_27: 1963140597
+      prisoner_sprite_sheet-removebg_28: 517638146
+      prisoner_sprite_sheet-removebg_29: 341564452
+      prisoner_sprite_sheet-removebg_3: 130380465
+      prisoner_sprite_sheet-removebg_30: -536476864
+      prisoner_sprite_sheet-removebg_31: -1198399469
+      prisoner_sprite_sheet-removebg_32: 1878911748
+      prisoner_sprite_sheet-removebg_33: 307648715
+      prisoner_sprite_sheet-removebg_34: 662761185
+      prisoner_sprite_sheet-removebg_35: 475568188
+      prisoner_sprite_sheet-removebg_36: 2050107326
+      prisoner_sprite_sheet-removebg_37: 773357596
+      prisoner_sprite_sheet-removebg_38: 556437641
+      prisoner_sprite_sheet-removebg_39: 507870572
+      prisoner_sprite_sheet-removebg_4: -245533804
+      prisoner_sprite_sheet-removebg_40: -1538374463
+      prisoner_sprite_sheet-removebg_41: 878132929
+      prisoner_sprite_sheet-removebg_42: -497285081
+      prisoner_sprite_sheet-removebg_43: -219834709
+      prisoner_sprite_sheet-removebg_44: 1699797275
+      prisoner_sprite_sheet-removebg_45: -755579801
+      prisoner_sprite_sheet-removebg_46: 1665057003
+      prisoner_sprite_sheet-removebg_47: 1956074828
+      prisoner_sprite_sheet-removebg_48: 2108745759
+      prisoner_sprite_sheet-removebg_49: -1785593842
+      prisoner_sprite_sheet-removebg_5: 1201771615
+      prisoner_sprite_sheet-removebg_50: 749512959
+      prisoner_sprite_sheet-removebg_51: 1299664117
+      prisoner_sprite_sheet-removebg_52: 1397038083
+      prisoner_sprite_sheet-removebg_53: 808017260
+      prisoner_sprite_sheet-removebg_54: -1295657785
+      prisoner_sprite_sheet-removebg_55: 1851160733
+      prisoner_sprite_sheet-removebg_56: -234205293
+      prisoner_sprite_sheet-removebg_57: 1384921629
+      prisoner_sprite_sheet-removebg_58: -1967148124
+      prisoner_sprite_sheet-removebg_59: 817099437
+      prisoner_sprite_sheet-removebg_6: -728987734
+      prisoner_sprite_sheet-removebg_60: -36999707
+      prisoner_sprite_sheet-removebg_61: -344460149
+      prisoner_sprite_sheet-removebg_62: 1294899605
+      prisoner_sprite_sheet-removebg_63: 1816671983
+      prisoner_sprite_sheet-removebg_64: -786772832
+      prisoner_sprite_sheet-removebg_65: -904388593
+      prisoner_sprite_sheet-removebg_66: 706826719
+      prisoner_sprite_sheet-removebg_67: 866076909
+      prisoner_sprite_sheet-removebg_68: -1153113563
+      prisoner_sprite_sheet-removebg_69: -824693586
+      prisoner_sprite_sheet-removebg_7: 1233836607
+      prisoner_sprite_sheet-removebg_70: 1887382034
+      prisoner_sprite_sheet-removebg_71: 532032590
+      prisoner_sprite_sheet-removebg_72: -1112909535
+      prisoner_sprite_sheet-removebg_73: -798157063
+      prisoner_sprite_sheet-removebg_74: -317762998
+      prisoner_sprite_sheet-removebg_75: 846984082
+      prisoner_sprite_sheet-removebg_76: -585551665
+      prisoner_sprite_sheet-removebg_77: -1038011713
+      prisoner_sprite_sheet-removebg_78: -8452891
+      prisoner_sprite_sheet-removebg_8: 154801156
+      prisoner_sprite_sheet-removebg_9: 1293883127
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
