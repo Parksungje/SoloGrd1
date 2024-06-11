@@ -5,34 +5,35 @@ using UnityEngine.Rendering.Universal;
 
 public class LightActive : MonoBehaviour
 {
-    private bool state;
     public Light2D light2D;
-
-    private void Start()
-    {
-        state = true;
-    }
+    public PolygonCollider2D polygon;
 
     private void Awake()
     {
+        polygon = GetComponent<PolygonCollider2D>();
         light2D = GetComponent<Light2D>();
     }
 
     private void Update()
     {
-        if (Input.GetKeyDown(KeyCode.F))
+        FlashInput();
+    }
+
+    private void FlashInput()
+    {
+        if (Input.GetKey(KeyCode.F))
         {
-            if (state == true)
-            {
-                light2D.enabled = false;
-                state = false;
-            }
-            else
-            {
-                light2D.enabled = true;
-                state = true;
-                
-            }
+            Flash(true);
         }
+        else if (Input.GetKeyUp(KeyCode.F))
+        {
+            Flash(false);
+        }
+    }
+
+    private void Flash(bool value)
+    {
+        polygon.enabled = value;
+        light2D.enabled = value;
     }
 }
