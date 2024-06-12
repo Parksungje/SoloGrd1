@@ -21,11 +21,11 @@ public class LightActive : MonoBehaviour
 
     private void FlashInput()
     {
-        if (Input.GetKey(KeyCode.F))
+        if (Input.GetMouseButton(0))
         {
             Flash(true);
         }
-        else if (Input.GetKeyUp(KeyCode.F))
+        else if (Input.GetMouseButtonUp(0))
         {
             Flash(false);
         }

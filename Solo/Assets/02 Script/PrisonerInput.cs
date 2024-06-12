@@ -9,6 +9,7 @@ public class PrisonerInput : MonoBehaviour
         if (collision.CompareTag("Light"))
         {
             Destroy(gameObject);
+            Debug.Log("Count");
         }
     }
 }

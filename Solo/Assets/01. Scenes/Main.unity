@@ -940,8 +940,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: ": \uC190\uC804\uB4F1 \uCF1C\uAE30\n"
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 0cfcd1e4484aee64ca6c09ed14a21f52, type: 2}
-  m_sharedMaterial: {fileID: 3610250063163981042, guid: 0cfcd1e4484aee64ca6c09ed14a21f52, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 47cca31745e7bc34a854137b11af1050, type: 2}
+  m_sharedMaterial: {fileID: 1302917471627809395, guid: 47cca31745e7bc34a854137b11af1050, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -4549,7 +4549,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: -1181640035, guid: fa13b837eea611a4e97678ba4a20ac7f, type: 3}
+  m_Sprite: {fileID: 21300000, guid: c1ce4c47635f1ea40a9c8c86b0b3d1b3, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -4632,7 +4632,7 @@ MonoBehaviour:
   m_BlendStyleIndex: 0
   m_FalloffIntensity: 0.938
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_Intensity: 6
+  m_Intensity: 17.6
   m_LightVolumeIntensity: 1
   m_LightVolumeIntensityEnabled: 0
   m_ApplyToSortingLayers: 00000000cb0d80e2d19863765573967a
@@ -4649,8 +4649,8 @@ MonoBehaviour:
   m_ShadowVolumeIntensityEnabled: 0
   m_ShadowVolumeIntensity: 0.75
   m_LocalBounds:
-    m_Center: {x: -0.037, y: -0.07825002, z: 0}
-    m_Extent: {x: 1.1672001, y: 0.97155, z: 0}
+    m_Center: {x: -0.037850022, y: -0.07834998, z: 0}
+    m_Extent: {x: 1.25665, y: 1.06145, z: 0}
   m_PointLightInnerAngle: 360
   m_PointLightOuterAngle: 360
   m_PointLightInnerRadius: 0
@@ -4658,7 +4658,7 @@ MonoBehaviour:
   m_ShapeLightParametricSides: 5
   m_ShapeLightParametricAngleOffset: 0
   m_ShapeLightParametricRadius: 1
-  m_ShapeLightFalloffSize: 0.6
+  m_ShapeLightFalloffSize: 0.69
   m_ShapeLightFalloffOffset: {x: 0, y: 0}
   m_ShapePath:
   - {x: -0.604802, y: -0.44591805, z: 0}
