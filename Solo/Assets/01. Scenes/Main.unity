@@ -7962,8 +7962,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a56d69644432cde49809eb73060c36fb, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  EnemyObjs:
-  - {fileID: 7638438521080050697, guid: ba543b5ee1af3654cbe2a1e0d42ed988, type: 3}
+  EnemyObjs: {fileID: 7638438521080050697, guid: ba543b5ee1af3654cbe2a1e0d42ed988, type: 3}
   spawnPoint:
   - {fileID: 1109721607}
   - {fileID: 324434404}
@@ -7971,8 +7970,8 @@ MonoBehaviour:
   - {fileID: 2012134072}
   - {fileID: 922549205}
   - {fileID: 1690248700}
-  maxSpawnDelay: 0
-  curSpawnDelay: 0
+  maxSpawnDelay: 10
+  curSpawnDelay: 4
 --- !u!61 &2041777286
 BoxCollider2D:
   m_ObjectHideFlags: 0
