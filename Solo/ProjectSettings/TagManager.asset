@@ -13,7 +13,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - Postion
   - 
   - 
   - 
@@ -51,4 +51,10 @@ TagManager:
     locked: 0
   - name: OldMan
     uniqueID: 2056680277
+    locked: 0
+  - name: FlashLight
+    uniqueID: 233232849
+    locked: 0
+  - name: Position
+    uniqueID: 623896729
     locked: 0
