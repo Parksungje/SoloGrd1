@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Prisoner
   - Light
+  - Key
   layers:
   - Default
   - TransparentFX
