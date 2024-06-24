@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
 
-public class Key : MonoBehaviour
+public class KeyInput : MonoBehaviour
 {
     [SerializeField] private BoxCollider2D _collision;
     [SerializeField] private TMP_Text _text;

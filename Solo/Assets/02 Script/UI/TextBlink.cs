@@ -4,7 +4,7 @@ using UnityEngine.UI;
 using UnityEngine.EventSystems;
 using TMPro;
 
-public class SpaceKey_Start : MonoBehaviour
+public class TextBlink : MonoBehaviour
 {
     private TMP_Text flashingText;
     private Coroutine _corou;

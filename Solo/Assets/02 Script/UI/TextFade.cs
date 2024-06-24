@@ -5,7 +5,7 @@ using DG.Tweening;
 using TMPro;
 using Unity.VisualScripting;
 
-public class TextFade
+public class TextFade : MonoBehaviour
 {
     public Tween _tween;
     public void Fade(TMP_Text text, float value, float delay)

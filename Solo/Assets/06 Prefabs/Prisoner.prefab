@@ -13,7 +13,6 @@ GameObject:
   - component: {fileID: 63161896175623131}
   - component: {fileID: 2777669029208565663}
   - component: {fileID: 7952323813399328755}
-  - component: {fileID: 4636801587161449905}
   m_Layer: 0
   m_Name: Prisoner
   m_TagString: Prisoner
@@ -171,15 +170,3 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 7
---- !u!114 &4636801587161449905
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7638438521080050697}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 424b8f8f165cb8b4eaa98cacd70aeab0, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 

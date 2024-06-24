@@ -1,10 +1,12 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
-public class PlayerIn : MonoBehaviour
+public class PlayerInput : MonoBehaviour
 {
+    [SerializeField] GameObject failUI;
     private Rigidbody2D rigid;
+    private GameManager gm;
+    public int enemyCount;
 
     private void Awake()
     {
@@ -16,7 +18,31 @@ public class PlayerIn : MonoBehaviour
         if (collision.gameObject.CompareTag("Prisoner"))
         {
             Destroy(gameObject);
-            Time.timeScale = 0;
+            failUI.SetActive(true);
+            SceneManager.LoadScene("GameStart");
+
         }
+    }
+
+    void OnTriggerEnter(Collider other)
+    {
+        if (other.tag == "Enemy")
+        {
+            enemyCount++;
+            other.gameObject.SetActive(false);
+        }
+        else if (other.tag == "Finish")
+        {
+            if (gm.totalEnemyCount == enemyCount)
+            {
+                gm.stage++;
+                SceneManager.LoadScene("Stage2" + gm.stage);
+            }
+            else
+            {
+                SceneManager.LoadScene("Stage1" + gm.stage);
+            }
+        }
+
     }
 }
