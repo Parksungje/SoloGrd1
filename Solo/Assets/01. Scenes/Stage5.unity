@@ -893,7 +893,7 @@ MonoBehaviour:
   m_Priority: 10
   m_StandbyUpdate: 2
   m_LookAt: {fileID: 0}
-  m_Follow: {fileID: 0}
+  m_Follow: {fileID: 677277437}
   m_Lens:
     FieldOfView: 34
     OrthographicSize: 2
@@ -1832,7 +1832,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 998f1b1eb8c324f439dec12ec529924d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  failUI: {fileID: 0}
+  failUI: {fileID: 2078321639}
   enemyCount: 1
 --- !u!114 &677277432
 MonoBehaviour:
@@ -5637,7 +5637,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 097e6cb3e01dca443b28922a096f99dc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  failUI: {fileID: 0}
+  failUI: {fileID: 2078321639}
 --- !u!4 &1651736320
 Transform:
   m_ObjectHideFlags: 0

@@ -4977,9 +4977,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: '120
-
-'
+  m_text: 120
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 0cfcd1e4484aee64ca6c09ed14a21f52, type: 2}
   m_sharedMaterial: {fileID: 3610250063163981042, guid: 0cfcd1e4484aee64ca6c09ed14a21f52, type: 2}
@@ -5582,7 +5580,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 998f1b1eb8c324f439dec12ec529924d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  failUI: {fileID: 0}
+  failUI: {fileID: 2078321639}
   enemyCount: 1
 --- !u!114 &1731566777
 MonoBehaviour:

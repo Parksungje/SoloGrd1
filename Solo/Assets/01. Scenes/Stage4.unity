@@ -1902,7 +1902,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 998f1b1eb8c324f439dec12ec529924d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  failUI: {fileID: 0}
+  failUI: {fileID: 2078321639}
   enemyCount: 1
 --- !u!114 &1028887265
 MonoBehaviour:
@@ -5729,7 +5729,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 097e6cb3e01dca443b28922a096f99dc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  failUI: {fileID: 0}
+  failUI: {fileID: 2078321639}
 --- !u!4 &1673383549
 Transform:
   m_ObjectHideFlags: 0

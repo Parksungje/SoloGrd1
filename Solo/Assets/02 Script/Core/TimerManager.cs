@@ -8,11 +8,14 @@ using UnityEngine.SceneManagement;
 public class TimerManager : MonoBehaviour
 {
     [SerializeField] private GameObject failUI;
+
+
     private void Update()
     {
         if(Time.timeScale == 0)
         {
             failUI.SetActive(true);
+            Time.timeScale = 1;
             SceneManager.LoadScene("GameStart");
         }
     }
